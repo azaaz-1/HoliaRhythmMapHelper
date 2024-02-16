@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 using Monocle;
-
 using Celeste.Mod.Entities;
 
 namespace Celeste.Mod.HoliaRhythmMapHelper.Entities;
